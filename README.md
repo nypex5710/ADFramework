@@ -1,2 +1,1 @@
-# ADFramework
- A user-friendly framework developed with PHP. "Less code, more work."
+<h1>ADFramework <img src="https://github.com/ADFramework/images/logo.jpg" height="64" width="64" align="left"></h1>
