@@ -6,5 +6,5 @@
 
 # Features
 
-[X] GET and $_POST method
+[X] GET and $_POST method<br>
 [X] Get user ip address method
