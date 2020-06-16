@@ -6,4 +6,5 @@
 
 # Features
 
-[] Safe $_GET and $_POST method
+[X] GET and $_POST method
+[X] Get user ip address method
