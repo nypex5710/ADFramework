@@ -55,7 +55,7 @@ class ADFunctions
      * makes the data url friendly.
      * Verilen girdiyi url dostu bir duruma getirir.
      */
-    function sef_link($str)
+    public function sef_link($str)
     {
         $preg = array('Ç', 'Ş', 'Ğ', 'Ü', 'İ', 'Ö', 'ç', 'ş', 'ğ', 'ü', 'ö', 'ı', '+', '#', '.');
         $match = array('c', 's', 'g', 'u', 'i', 'o', 'c', 's', 'g', 'u', 'o', 'i', 'plus', 'sharp', '');
